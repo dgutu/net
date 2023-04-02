@@ -1,1 +1,6 @@
-
+- CopyFilesRecursively from one folder to another
+- Generate a random string for temporary folder
+- GetNumbers from string
+- Upload on sFTP using Renci.SshNet and check if successfully uploaded
+- Zip the folder using System.IO.Compression.ZipFile
+- Create/Remove directories
